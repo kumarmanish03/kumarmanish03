@@ -16,6 +16,12 @@
 
 <hr/>
 
+<p align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kumarmanish03.kumarmanish03" />
+
+</p>
+
 ### Tools
 
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
