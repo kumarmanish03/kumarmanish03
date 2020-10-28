@@ -1,5 +1,7 @@
 ### Hi there. I'm Manish Kumar 👋
 
+<hr />
+
 <p align="center">
 
 <a href="https://www.facebook.com/profile.php?id=100009172781875" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
@@ -59,5 +61,7 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mongodb.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/firebase.svg" />
+
 <br/>
+
 <hr/>
