@@ -1,4 +1,4 @@
-### Hi there. I'm Manish Kumar aka kumarmanish03 👋
+### Hi there. I'm Manish Kumar 👋
 
 <!-- - 👯
 - 🌱
@@ -9,6 +9,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 <img src="https://github-readme-stats.vercel.app/api/?username=kumarmanish03&show_icons=true&theme=gotham" alt="github stats"/>
 
