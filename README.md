@@ -29,12 +29,13 @@
 
 </p>
 
-### My Live Links
+### My Cute Projects
 
 <a href="https://ntaskadvanced.netlify.app/" target="_blank">nTask Advanced</a>
 
 <a href="https://kumarmanish03.github.io/meme-generator-reactJS/" target="_blank">Meme Generator</a>
 
+<a href="https://mathminder.netlify.app/" target="_blank">Math Minder</a>
 <br/>
 
 ### Tools
