@@ -39,6 +39,8 @@
 
 <a href="https://imageflexbox.netlify.app/" target="_blank">Image Spam clone</a>
 
+<a href="https://infinityworld.netlify.app/" target="_blank">Infinty World</a>
+
 <br/>
 
 ### Tools
