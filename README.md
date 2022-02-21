@@ -17,8 +17,8 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-<img src="https://github-readme-stats.vercel.app/api/?username=kumarmanish03&show_icons=true&theme=gotham" alt="github stats"/>
-
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=kumarmanish03&show_icons=true&theme=gotham" alt="github stats"/>
+ -->
 <a href="https://github.com/kumarmanish03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmanish03&layout=compact&theme=gotham" /></a>
 
 <hr/>
